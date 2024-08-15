@@ -70,6 +70,19 @@ function App() {
             ></iframe>
           </div>
         </div>
+        <div
+          style={{ fontFamily: "Cormorant" }}
+          className="text-center mt-10 text-xl"
+        >
+          <strong>Дорогие друзья и близкие!</strong> <br /> С радостью и
+          трепетом в сердцах приглашаем вас разделить с нами этот важный и
+          волшебный момент — день, когда мы официально свяжем наши жизни в узах
+          любви и гармонии.
+          <br />
+          Праздничный ужин и танцы будут сопровождать нас в течение вечера. Нам
+          будет невероятно приятно видеть вас среди наших гостей, ведь этот день
+          станет еще прекраснее благодаря вам.
+        </div>
         <div className="flex flex-col items-center gap-8 mt-20 relative border rounded-xl p-5 overflow-hidden">
           <div
             className="text-[#454444] text-3xl font-thin text-center"
@@ -84,7 +97,7 @@ function App() {
             style={{ height: "500px" }}
             className="absolute bottom-0 left-0 z-[-1]"
           />
-          <h1 className="mt-5 text-6xl color-[#515151] font-normal font-serif text-center">
+          <h1 className="mt-5 text-2xl lg:text-6xl color-[#515151] font-normal font-serif text-center ">
             МЫ ВАС ОЧЕНЬ ЖДЕМ!
           </h1>
           <img
